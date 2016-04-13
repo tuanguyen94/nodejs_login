@@ -6,4 +6,8 @@ first change
 2. change in branch noob in local
 	
 
-4.change A A
+<<<<<<< HEAD
+4.change A local
+=======
+3. change after pull in master
+>>>>>>> commit after pull
